@@ -3,7 +3,7 @@ from transformers import AutoModelForSequenceClassification, pipeline, AutoToken
 
 
 def load_model():
-    path = "Models\DistilBERTbase_Model"
+    path = "Models/DistilBERTbase_Model"
 
     model = AutoModelForSequenceClassification.from_pretrained(path)
     tokenizer = AutoTokenizer.from_pretrained(path)
