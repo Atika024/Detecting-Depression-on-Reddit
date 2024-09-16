@@ -1,2 +1,2 @@
-D:/Detecting-Depression-on-Reddit/Detecting-Depression-on-Reddit/Models/DistilBERTbase_Model/model.safetensors filter=lfs diff=lfs merge=lfs -text
-D:/Detecting-Depression-on-Reddit/Detecting-Depression-on-Reddit/venv/Lib/site-packages/torch/lib/torch_cpu.dll filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/torch/lib/torch_cpu.dll filter=lfs diff=lfs merge=lfs -text
+Models/DistilBERTbase_Model/model.safetensors filter=lfs diff=lfs merge=lfs -text
