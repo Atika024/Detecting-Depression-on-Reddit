@@ -1,0 +1,9 @@
+streamlit
+streamlit-on-Hover-tabs
+transformers
+seaborn
+pandas
+numpy
+torch
+bertopic
+bertopic[visualization]
