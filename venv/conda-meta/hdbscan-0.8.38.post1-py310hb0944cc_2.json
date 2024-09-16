@@ -1,0 +1,387 @@
+{
+  "build": "py310hb0944cc_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "joblib >=1.0",
+    "numpy >=1.19,<3",
+    "numpy >=1.20,<3",
+    "python >=3.10,<3.11.0a0",
+    "python_abi 3.10.* *_cp310",
+    "scikit-learn >=0.20",
+    "scipy >=1.0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "D:\\Program Files\\Anaconda\\pkgs\\hdbscan-0.8.38.post1-py310hb0944cc_2",
+  "files": [
+    "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/INSTALLER",
+    "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/LICENSE",
+    "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/METADATA",
+    "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/RECORD",
+    "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/REQUESTED",
+    "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/WHEEL",
+    "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/direct_url.json",
+    "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/top_level.txt",
+    "Lib/site-packages/hdbscan/__init__.py",
+    "Lib/site-packages/hdbscan/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/__pycache__/branches.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/__pycache__/flat.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/__pycache__/hdbscan_.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/__pycache__/plots.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/__pycache__/prediction.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/__pycache__/robust_single_linkage_.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/__pycache__/validity.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/_hdbscan_boruvka.cp310-win_amd64.pyd",
+    "Lib/site-packages/hdbscan/_hdbscan_linkage.cp310-win_amd64.pyd",
+    "Lib/site-packages/hdbscan/_hdbscan_reachability.cp310-win_amd64.pyd",
+    "Lib/site-packages/hdbscan/_hdbscan_tree.cp310-win_amd64.pyd",
+    "Lib/site-packages/hdbscan/_prediction_utils.cp310-win_amd64.pyd",
+    "Lib/site-packages/hdbscan/branches.py",
+    "Lib/site-packages/hdbscan/dist_metrics.cp310-win_amd64.pyd",
+    "Lib/site-packages/hdbscan/flat.py",
+    "Lib/site-packages/hdbscan/hdbscan_.py",
+    "Lib/site-packages/hdbscan/plots.py",
+    "Lib/site-packages/hdbscan/prediction.py",
+    "Lib/site-packages/hdbscan/robust_single_linkage_.py",
+    "Lib/site-packages/hdbscan/tests/__init__.py",
+    "Lib/site-packages/hdbscan/tests/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/tests/__pycache__/test_branches.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/tests/__pycache__/test_flat.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/tests/__pycache__/test_hdbscan.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/tests/__pycache__/test_prediction_utils.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/tests/__pycache__/test_rsl.cpython-310.pyc",
+    "Lib/site-packages/hdbscan/tests/test_branches.py",
+    "Lib/site-packages/hdbscan/tests/test_flat.py",
+    "Lib/site-packages/hdbscan/tests/test_hdbscan.py",
+    "Lib/site-packages/hdbscan/tests/test_prediction_utils.py",
+    "Lib/site-packages/hdbscan/tests/test_rsl.py",
+    "Lib/site-packages/hdbscan/validity.py",
+    "dist_metrics.pxd",
+    ".nonadmin"
+  ],
+  "fn": "hdbscan-0.8.38.post1-py310hb0944cc_2.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "D:\\Program Files\\Anaconda\\pkgs\\hdbscan-0.8.38.post1-py310hb0944cc_2",
+    "type": 1
+  },
+  "md5": "834ac30edb0f8a3affeb380d07de1262",
+  "name": "hdbscan",
+  "package_tarball_full_path": "D:\\Program Files\\Anaconda\\pkgs\\hdbscan-0.8.38.post1-py310hb0944cc_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d5be17fef04ce2213c09a3fffec11021065eaff565733c46ef287248b353a081",
+        "sha256_in_prefix": "d5be17fef04ce2213c09a3fffec11021065eaff565733c46ef287248b353a081",
+        "size_in_bytes": 1484
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "7eedb5625cd7a6289800d02be6dcbc01a609a4c9d05fa2d1bab866f7c66b7279",
+        "sha256_in_prefix": "7eedb5625cd7a6289800d02be6dcbc01a609a4c9d05fa2d1bab866f7c66b7279",
+        "size_in_bytes": 15528
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "6beeb1f0eb3ef192418634ce825bc160584ba7f04e102da93dc52c287faf222a",
+        "sha256_in_prefix": "6beeb1f0eb3ef192418634ce825bc160584ba7f04e102da93dc52c287faf222a",
+        "size_in_bytes": 3313
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4d85037c7059428776f786acd71eeba3ddbc1e4f964863ec3d93d562bc1cfdb2",
+        "sha256_in_prefix": "4d85037c7059428776f786acd71eeba3ddbc1e4f964863ec3d93d562bc1cfdb2",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "3c05a81570411c97362073939d7f5c9a0936117b6e2ab4e4348e1860194290bd",
+        "sha256_in_prefix": "3c05a81570411c97362073939d7f5c9a0936117b6e2ab4e4348e1860194290bd",
+        "size_in_bytes": 68
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan-0.8.38.post1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "cdc66e3c5c3bda95ee6ac51dd74db2d1c481ee11b1bc032db8ab5404c66c5f59",
+        "sha256_in_prefix": "cdc66e3c5c3bda95ee6ac51dd74db2d1c481ee11b1bc032db8ab5404c66c5f59",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c7fa32a8d77f8b45d5f62e479bc2f4bd7b90a25653a97b94e65438a1c4cbd8c7",
+        "sha256_in_prefix": "c7fa32a8d77f8b45d5f62e479bc2f4bd7b90a25653a97b94e65438a1c4cbd8c7",
+        "size_in_bytes": 500
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "27e093d18df29704100f1d001864c4bb6c2a4b098b11f0a1ba627b66372064a0",
+        "sha256_in_prefix": "27e093d18df29704100f1d001864c4bb6c2a4b098b11f0a1ba627b66372064a0",
+        "size_in_bytes": 614
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/__pycache__/branches.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "c4d598c503a807fb911cc4f3e5fff7ccbb4f3bd91034142a6818de5276b9ce57",
+        "sha256_in_prefix": "c4d598c503a807fb911cc4f3e5fff7ccbb4f3bd91034142a6818de5276b9ce57",
+        "size_in_bytes": 35923
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/__pycache__/flat.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "a66c37a69452ace3d1e6625545032f1051918711ead6c0d9000cbe420649f683",
+        "sha256_in_prefix": "a66c37a69452ace3d1e6625545032f1051918711ead6c0d9000cbe420649f683",
+        "size_in_bytes": 21573
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/__pycache__/hdbscan_.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d4938a5e6b5f5d6b7e6a10268bb55c5b7d8bb9cda30ed7b07e1d292383ce20d6",
+        "sha256_in_prefix": "d4938a5e6b5f5d6b7e6a10268bb55c5b7d8bb9cda30ed7b07e1d292383ce20d6",
+        "size_in_bytes": 42360
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/__pycache__/plots.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "45cfe5c98aacf2973c968d749431bf71f285bfdba31fd7148837b704b61178ec",
+        "sha256_in_prefix": "45cfe5c98aacf2973c968d749431bf71f285bfdba31fd7148837b704b61178ec",
+        "size_in_bytes": 38563
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/__pycache__/prediction.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "0df8a89720eb63bb7a9b27d8ee3b887d0d925012cc9a2aac940838866da1f0f0",
+        "sha256_in_prefix": "0df8a89720eb63bb7a9b27d8ee3b887d0d925012cc9a2aac940838866da1f0f0",
+        "size_in_bytes": 18469
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/__pycache__/robust_single_linkage_.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "14480cbd59052a44d1734fa2f3f17947e8f9917e0f2406d4b818ee4f00fd839a",
+        "sha256_in_prefix": "14480cbd59052a44d1734fa2f3f17947e8f9917e0f2406d4b818ee4f00fd839a",
+        "size_in_bytes": 13415
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/__pycache__/validity.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8ffa7a5ee878f88324d6d9964e6f898b4ed51019778b141057d175cf2c67cf8f",
+        "sha256_in_prefix": "8ffa7a5ee878f88324d6d9964e6f898b4ed51019778b141057d175cf2c67cf8f",
+        "size_in_bytes": 12772
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/_hdbscan_boruvka.cp310-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "fece8f42658091d2b48717c5d303b9ebb8c962edd9efbe52f405cd2e2f53d045",
+        "sha256_in_prefix": "fece8f42658091d2b48717c5d303b9ebb8c962edd9efbe52f405cd2e2f53d045",
+        "size_in_bytes": 317440
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/_hdbscan_linkage.cp310-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "55bd48e75356d031d4cf0b3eedefbc4bac973f8e8737c14fe06e79d0e54a2df0",
+        "sha256_in_prefix": "55bd48e75356d031d4cf0b3eedefbc4bac973f8e8737c14fe06e79d0e54a2df0",
+        "size_in_bytes": 193024
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/_hdbscan_reachability.cp310-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "cf8e3e0f5066d48766a6c21d6d06faaefc24e3fb6aa5536692409f8afd57f58e",
+        "sha256_in_prefix": "cf8e3e0f5066d48766a6c21d6d06faaefc24e3fb6aa5536692409f8afd57f58e",
+        "size_in_bytes": 104960
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/_hdbscan_tree.cp310-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "c1bddaa11bd5036825828a0143a3719b2517b06ef17d82106c43c52b3f5e174e",
+        "sha256_in_prefix": "c1bddaa11bd5036825828a0143a3719b2517b06ef17d82106c43c52b3f5e174e",
+        "size_in_bytes": 345600
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/_prediction_utils.cp310-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "0d8af312cd3e8986e8133214ddd169629f10db1bc13fa9d0d5a0023dea54c9ba",
+        "sha256_in_prefix": "0d8af312cd3e8986e8133214ddd169629f10db1bc13fa9d0d5a0023dea54c9ba",
+        "size_in_bytes": 220672
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/branches.py",
+        "path_type": "hardlink",
+        "sha256": "97ff746df744b9409af7fca9e7648a4d78e63ebb06668b15d92c00b3163e15e1",
+        "sha256_in_prefix": "97ff746df744b9409af7fca9e7648a4d78e63ebb06668b15d92c00b3163e15e1",
+        "size_in_bytes": 45521
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/dist_metrics.cp310-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "3b58466e639f1987ebe8dacfb9ae44eedf888cf2cd362356635f67052e72023e",
+        "sha256_in_prefix": "3b58466e639f1987ebe8dacfb9ae44eedf888cf2cd362356635f67052e72023e",
+        "size_in_bytes": 259072
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/flat.py",
+        "path_type": "hardlink",
+        "sha256": "1bb6c8b08a8273dc0c4beda26016cae75720d4c9b2662cdeeb480001b5579ae8",
+        "sha256_in_prefix": "1bb6c8b08a8273dc0c4beda26016cae75720d4c9b2662cdeeb480001b5579ae8",
+        "size_in_bytes": 38877
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/hdbscan_.py",
+        "path_type": "hardlink",
+        "sha256": "884557526a4ff79dff3c9933d5046db4cd441c3315e6840d9cc09869c3ac2546",
+        "sha256_in_prefix": "884557526a4ff79dff3c9933d5046db4cd441c3315e6840d9cc09869c3ac2546",
+        "size_in_bytes": 60808
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/plots.py",
+        "path_type": "hardlink",
+        "sha256": "f7d813aad154f7f0cce3f1350d5bf6d7bce55051578649b5baf9c51d8f040a47",
+        "sha256_in_prefix": "f7d813aad154f7f0cce3f1350d5bf6d7bce55051578649b5baf9c51d8f040a47",
+        "size_in_bytes": 49453
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/prediction.py",
+        "path_type": "hardlink",
+        "sha256": "a3775742fcd42ac696e4b55f78997de88e5e3540892274105f97f2cda863376e",
+        "sha256_in_prefix": "a3775742fcd42ac696e4b55f78997de88e5e3540892274105f97f2cda863376e",
+        "size_in_bytes": 25705
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/robust_single_linkage_.py",
+        "path_type": "hardlink",
+        "sha256": "5c692379c17b4b0b514fbd7eabe70aa1231c39527a2beeaca186a9eff4db9e02",
+        "sha256_in_prefix": "5c692379c17b4b0b514fbd7eabe70aa1231c39527a2beeaca186a9eff4db9e02",
+        "size_in_bytes": 17281
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/tests/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "884071d092f8cd237c1afa8f11a9d8f33c9368691ddf177a0a57fd2d1c183019",
+        "sha256_in_prefix": "884071d092f8cd237c1afa8f11a9d8f33c9368691ddf177a0a57fd2d1c183019",
+        "size_in_bytes": 136
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/tests/__pycache__/test_branches.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "15e1ca02f3257b3dce31d5682a839d16cbda388091915501829a9a6c932b0b97",
+        "sha256_in_prefix": "15e1ca02f3257b3dce31d5682a839d16cbda388091915501829a9a6c932b0b97",
+        "size_in_bytes": 13865
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/tests/__pycache__/test_flat.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3986d090af88396c80daf1a669d9213429627850d27f9d08cca2dd7e23110215",
+        "sha256_in_prefix": "3986d090af88396c80daf1a669d9213429627850d27f9d08cca2dd7e23110215",
+        "size_in_bytes": 7078
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/tests/__pycache__/test_hdbscan.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b45f032467b082b93e49969bce92cc21043ff96034f317bd09690681510d62f6",
+        "sha256_in_prefix": "b45f032467b082b93e49969bce92cc21043ff96034f317bd09690681510d62f6",
+        "size_in_bytes": 16245
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/tests/__pycache__/test_prediction_utils.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3c0e9d00651b50235f4909df4b75e948609f12251f4204c5844e31e21795d729",
+        "sha256_in_prefix": "3c0e9d00651b50235f4909df4b75e948609f12251f4204c5844e31e21795d729",
+        "size_in_bytes": 504
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/tests/__pycache__/test_rsl.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "49f375c6cdfe6da108d2481991a49348e520e3921cb42ebae8f12c7d63b54b1f",
+        "sha256_in_prefix": "49f375c6cdfe6da108d2481991a49348e520e3921cb42ebae8f12c7d63b54b1f",
+        "size_in_bytes": 4679
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/tests/test_branches.py",
+        "path_type": "hardlink",
+        "sha256": "4204561984bf713ef7fd219e67403abcf121f06c8bf2efe533659ad5183c3107",
+        "sha256_in_prefix": "4204561984bf713ef7fd219e67403abcf121f06c8bf2efe533659ad5183c3107",
+        "size_in_bytes": 16126
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/tests/test_flat.py",
+        "path_type": "hardlink",
+        "sha256": "94bc51fee8b055d626abe7ec1b66a78f39d019ea311f912bfb459da9b06b33e9",
+        "sha256_in_prefix": "94bc51fee8b055d626abe7ec1b66a78f39d019ea311f912bfb459da9b06b33e9",
+        "size_in_bytes": 16075
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/tests/test_hdbscan.py",
+        "path_type": "hardlink",
+        "sha256": "54f06ae249f82820b262332b08fd7f74c679ca360ed4d343557f56e3c3247a4a",
+        "sha256_in_prefix": "54f06ae249f82820b262332b08fd7f74c679ca360ed4d343557f56e3c3247a4a",
+        "size_in_bytes": 22571
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/tests/test_prediction_utils.py",
+        "path_type": "hardlink",
+        "sha256": "823c99c7ac703130a5596737890c2278ee655b196a4fb4c6440457ae197e800b",
+        "sha256_in_prefix": "823c99c7ac703130a5596737890c2278ee655b196a4fb4c6440457ae197e800b",
+        "size_in_bytes": 447
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/tests/test_rsl.py",
+        "path_type": "hardlink",
+        "sha256": "fd604bfb85241c91ff1c294ee6511355a2d251836269966852cec21d055e66c5",
+        "sha256_in_prefix": "fd604bfb85241c91ff1c294ee6511355a2d251836269966852cec21d055e66c5",
+        "size_in_bytes": 7098
+      },
+      {
+        "_path": "Lib/site-packages/hdbscan/validity.py",
+        "path_type": "hardlink",
+        "sha256": "802e7d7e03a7c0321da0a8fd0a88dc0eb64479a93c3e248068ec67f50b4f57b7",
+        "sha256_in_prefix": "802e7d7e03a7c0321da0a8fd0a88dc0eb64479a93c3e248068ec67f50b4f57b7",
+        "size_in_bytes": 15989
+      },
+      {
+        "_path": "dist_metrics.pxd",
+        "path_type": "hardlink",
+        "sha256": "00289c6681a899b0f4cc734ee1acd2304f5c175ebd26c1e989dd59bd46f7a173",
+        "sha256_in_prefix": "00289c6681a899b0f4cc734ee1acd2304f5c175ebd26c1e989dd59bd46f7a173",
+        "size_in_bytes": 2626
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "hdbscan",
+  "sha256": "538925866dcacac74d47e92627a091a209ba4efab71229bc5b936478931a2add",
+  "size": 491612,
+  "subdir": "win-64",
+  "timestamp": 1726129951000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/hdbscan-0.8.38.post1-py310hb0944cc_2.conda",
+  "version": "0.8.38.post1"
+}
