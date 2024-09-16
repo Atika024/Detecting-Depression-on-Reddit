@@ -19,7 +19,7 @@ def show_project_flow():
         st.write('''
             In this phase, I took the lead in preprocessing the dataset (refer to the diagram below). Concurrently, my team members delved into existing research on depression detection within social media platforms. Based on the Literature Review we wrote a comprehensive review paper, which we successfully presented at the **ICECPCS 2024** conference.
         ''')
-        st.image("D:\MajorProject\Images\dataPreprocessing.png", caption = 'Data preprocessing steps')
+        st.image("Images/dataPreprocessing.png", caption = 'Data preprocessing steps')
 
     with st.expander("3. ANALYZING DEPRESSIVE DATA"):
         st.write('''
@@ -43,8 +43,8 @@ def show_project_flow():
               -  Training & Testing of Distil Roberta models: https://colab.research.google.com/drive/1RmWkFbqwElxTYO2YKArHx7-V4NQ6YcS0?usp=sharing
               -  Training & Testing Distil BERT Base Uncased model: https://colab.research.google.com/drive/1XubJYdfYZAfDw04BNVdBC77cA8SbOfNa?usp=sharing
         ''')
-        st.image("D:\MajorProject\Images\mlArch.jpg", caption='Architecture for ML-based Models')
-        st.image("D:\MajorProject\Images\dlArch.png", caption='Architecture for NN-based Models')
+        st.image("Images/mlArch.jpg", caption='Architecture for ML-based Models')
+        st.image("Images/dlArch.png", caption='Architecture for NN-based Models')
 
     with st.expander("5. JOURNAL WRITING"):
         st.write('''
