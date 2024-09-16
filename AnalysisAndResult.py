@@ -4,7 +4,7 @@ import plotly.io as pio
 from bertopic import BERTopic
 
 # Use BERTopic to perform topic modelling on depressive Reddit post.
-model = BERTopic.load('D:\MajorProject\Models\BERTopic_Model')
+model = BERTopic.load('Models\BERTopic_Model')
 intertopicDistMap = model.visualize_topics(title=None)
 intertopicDistMap.update_layout(template='plotly_dark')
 barchart = model.visualize_barchart(top_n_topics = 20, n_words = 10, autoscale = True, title=None)
