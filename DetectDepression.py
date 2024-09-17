@@ -1,13 +1,10 @@
 import streamlit as st
-from transformers import AutoModelForSequenceClassification, pipeline, AutoTokenizer
+from transformers import pipeline
 
 
 def load_model():
-    path = "Models/DistilBERTbase_Model"
-
-    model = AutoModelForSequenceClassification.from_pretrained(path)
-    tokenizer = AutoTokenizer.from_pretrained(path)
-    pipe = pipeline("text-classification", model = model, tokenizer = tokenizer)
+    # path = "Models/DistilBERTbase_Model"
+    pipe = pipeline("text-classification", model="sunF1ow3r/finetuned-distilBERT-for-reddit-depression-detection")
 
     return pipe
 
